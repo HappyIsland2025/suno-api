@@ -10,7 +10,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "node index.js",
     "start": "node index.js",
     "lint": "next lint"
   },
